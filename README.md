@@ -1,4 +1,4 @@
-# Facies Classification using on Machine Learning
+# Facies Classification using Machine Learning
 
 ## Overview
 This project aims to develop an end-to-end machine learning pipeline for facies classification in petroleum exploration. The objective is to accurately predict lithology/facies based on well-log measurements using various machine-learning techniques. The pipeline follows best practices in data engineering and machine learning, ensuring robustness, scalability, and actionable insights for the petroleum industry.
